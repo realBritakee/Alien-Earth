@@ -1,4 +1,5 @@
-<a href="https://legacy.curseforge.com/minecraft/modpacks/alien-earth" rel="nofollow"><img src="https://github.com/user-attachments/assets/5eb8e5d1-a6c2-4170-a9aa-faa01f0f4c03">
+<a href="https://legacy.curseforge.com/minecraft/modpacks/alien-earth" rel="nofollow"><img src="https://github.com/user-attachments/assets/d7304bf7-749b-4ec3-84c8-1af7e8009137">
+
 <br/>
 <p align="center">450+ Mods | 10 Create Chapters | Epic Battles | 8-10GB Recommended
 <br/>
