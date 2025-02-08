@@ -1,9 +1,9 @@
-<a href="https://www.curseforge.com/minecraft/modpacks/create-beyond-earth" rel="nofollow"><img src="https://github.com/user-attachments/assets/5eb8e5d1-a6c2-4170-a9aa-faa01f0f4c03">
+<a href="https://legacy.curseforge.com/minecraft/modpacks/alien-earth" rel="nofollow"><img src="https://github.com/user-attachments/assets/5eb8e5d1-a6c2-4170-a9aa-faa01f0f4c03">
 <br/>
 <p align="center">450+ Mods | 10 Create Chapters | Epic Battles | 8-10GB Recommended
 <br/>
 <br/>
-<a href="https://dsc.gg/varox" rel="nofollow"><img src="https://img.shields.io/discord/1335242510888337439?style=for-the-badge&logo=discord&logoColor=fff&label=Varoxcraft&labelColor=0c1323&color=f97044" width="186" height="28"></a><a href="https://www.curseforge.com/minecraft/modpacks/create-beyond-earth" rel="nofollow"><img src="https://img.shields.io/curseforge/game-versions/856978?style=for-the-badge&logo=curseforge&label=Version&labelColor=0c1323&color=f97044" width="186" height="28"></a><a href="https://ko-fi.com/britakee" rel="nofollow"><img src="https://img.shields.io/static/v1?label=ko-fi&amp;message=Buy me a coffee&amp;color=f97044&amp;labelColor=0c1323&amp;style=for-the-badge&amp;logo=kofi&amp;logoColor=fff" alt="" width="186" height="28"></a>
+<a href="https://dsc.gg/britakeestudios" rel="nofollow"><img src="https://img.shields.io/discord/1337885670475300865?style=for-the-badge&logo=discord&logoColor=fff&label=Britakee Studios&labelColor=0c1323&color=f97044" width="186" height="28"></a><a href="https://legacy.curseforge.com/minecraft/modpacks/alien-earth" rel="nofollow"><img src="https://img.shields.io/curseforge/game-versions/856978?style=for-the-badge&logo=curseforge&label=Version&labelColor=0c1323&color=f97044" width="186" height="28"></a><a href="https://ko-fi.com/britakee" rel="nofollow"><img src="https://img.shields.io/static/v1?label=ko-fi&amp;message=Buy me a coffee&amp;color=f97044&amp;labelColor=0c1323&amp;style=for-the-badge&amp;logo=kofi&amp;logoColor=fff" alt="" width="186" height="28"></a>
 <br/>
 
 #
