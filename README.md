@@ -14,7 +14,7 @@
 ## <p align="center">👽 Features & planned content
 
 ### ✨ **Aliens & Threats**
-The deadly Xenomorphs from the **[Gigeresque](https://www.curseforge.com/minecraft/mc-mods/gigeresque)** mod by **[cybercat5555](https://www.curseforge.com/members/cybercat5555/projects)** and **[AzureDoom](https://www.curseforge.com/members/azuredoomc/projects)** bring the iconic horror feeling to Minecraft.
+The deadly Xenomorphs from the **[Gigeresque](https://www.curseforge.com/minecraft/mc-mods/gigeresque)** mod by **[cybercat5555](https://www.curseforge.com/members/cybercat5555/projects)** and **[AzureDoom](https://www.curseforge.com/members/azuredoomc/projects)** is the Core of this pack, and brings the iconic horror feeling to Minecraft.
 
 ### 🌌 **Explore the planets**
 Various planets inspired by the *Alien* movies (1979-1997) will be added in future updates:
