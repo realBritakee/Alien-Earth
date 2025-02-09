@@ -5,7 +5,7 @@
 <br/>
 
 ## <p align="center">✨ Welcome to LV-426... or to Earth after all? ✨
-**Alien: Earth** is an extensive **Minecraft modpack** based on Ridley Scott's legendary *Alien* films. Immerse yourself in a dark sci-fi world full of dangers, custom structures and strange creatures. 
+**<p align="center">Alien: Earth** is an extensive **Minecraft modpack** based on Ridley Scott's legendary *Alien* films. Immerse yourself in a dark sci-fi world full of dangers, custom structures and strange creatures. 
 
 > **Attention:** The modpack is still in an early development phase. Many of the planned contents listed here will only be added gradually.
 
@@ -58,7 +58,7 @@ _whether content from the Predator & Alien vs. Predator franchise will be includ
 ---
 
 ## <p align="center">🌟 Become part of the development!
-**As the project is still at an early stage, I welcome feedback, ideas and support. If you are interested in contributing or have suggestions, join our [Discord](https://dsc.gg/britakeestudios)!**
+**<p align="center">As the project is still at an early stage, I welcome feedback, ideas and support. If you are interested in contributing or have suggestions, join our [Discord](https://dsc.gg/britakeestudios)!**
 
 ---
 
