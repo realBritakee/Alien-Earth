@@ -10,13 +10,12 @@
 #
 
 <br/>
-<strong>we add a variety of modѕ and compileѕ them into an epic technological journey toward ѕpace travel. It merges magic, exploration, bosses, and the Create Mod, featuring custom recipes and extensive exploration while staying close to vanilla Minecraft. If you're unfamiliar with certain mods, this pack includes quests to guide you through the new content. One of the last things to unlock is Applied Energistics 2. Perfect for fans of Create and exploration gameplay.</strong>
-<br/>
+<p align="center"><strong>we add a variety of modѕ and compileѕ them into an epic technological journey toward ѕpace travel. It merges magic, exploration, bosses, and the Create Mod, featuring custom recipes and extensive exploration while staying close to vanilla Minecraft. If you're unfamiliar with certain mods, this pack includes quests to guide you through the new content. One of the last things to unlock is Applied Energistics 2. Perfect for fans of Create and exploration gameplay.</strong>
 <br/>
 
 #
 
-<p align="center"><strong>FEATURES</strong></p>
+# <p align="center"><strong>FEATURES</strong></p>
 <br/>
 <p>📖 <span style="color:#e67e23"><strong>Over 800+ quests to guide you</strong>: </span>Follow progression-based quests through 10 chapters focused on <span style="text-decoration:underline">Create</span>. Master assembly lines and automation techniques, unlocking new content with each chapter.</p>
 <br/>
@@ -40,10 +39,10 @@
 #
 
 <br/>
-<p>✔️&nbsp;<strong>Tons of QoL Features</strong>: Over 450+ mods tailored for an immersive experience.<br><br>✔️&nbsp;<strong>Extensive Collection Challenges</strong>: Gather unique items and rewards for your collection.<br><br>✔️ <strong>Quest Shop:</strong> Create complex automations to acquire epic items and buy some unique items with coins.<br><br>✔️ <strong>Multiplayer-Focused Design</strong>: Tailored with multiplayer in mind, enhancing collaborative play for an engaging community experience.<br><br>✔️ <strong>Performance Optimized</strong>: Experience smooth gameplay, fine-tuned for performance.<br><br>✔️ <strong>Frequent Updates<br><br>✔️ Built-in shaders<br><br></strong>&nbsp;<strong>And much much more...</strong></p>
+<p>✔️&nbsp;<strong>Tons of QoL Features</strong>: Over 420+ mods tailored for an immersive experience.<br><br>✔️&nbsp;<strong>Extensive Collection Challenges</strong>: Gather unique items and rewards for your collection.<br><br>✔️ <strong>Quest Shop:</strong> Create complex automations to acquire epic items and buy some unique items with coins.<br><br>✔️ <strong>Multiplayer-Focused Design</strong>: Tailored with multiplayer in mind, enhancing collaborative play for an engaging community experience.<br><br>✔️ <strong>Performance Optimized</strong>: Experience smooth gameplay, fine-tuned for performance.<br><br>✔️ <strong>Frequent Updates<br><br>✔️ Built-in shaders<br><br></strong>&nbsp;<strong>And much much more...</strong></p>
 <br/>
 
 #
 
 <br/>
-<p>Full mod list and their credits can be found&nbsp;<a href="https://curseforge.com/minecraft/modpacks/create-beyond-earth/relations/dependents" rel="nofollow">here</a></p>
+<p align="center">Full mod list and their credits can be found&nbsp;<a href="https://curseforge.com/minecraft/modpacks/alien-earth/relations/dependents" rel="nofollow">here</a></p>
