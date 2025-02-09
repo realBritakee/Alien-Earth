@@ -49,11 +49,11 @@ _whether content from the Predator & Alien vs. Predator franchise will be includ
 ---
 
 ## <p align="center">⚙ Planned features (to-do list)
-- [x] **Structures and Buildings from the Movies**
-- [x] **Custom items & blocks for Weyland-Yutani**
-- [x] **MineColonies - Hadley's Hope Addon**
-- [x] **New Biomes and Planets to explore**
-- [x] **Sound Effects & Ambient**
+- [ ] **Structures and Buildings from the Movies**
+- [ ] **Custom items & blocks for Weyland-Yutani**
+- [ ] **MineColonies - Hadley's Hope Addon**
+- [ ] **New Biomes and Planets to explore**
+- [ ] **Sound Effects & Ambient**
 
 ---
 
